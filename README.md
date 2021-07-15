@@ -1,16 +1,8 @@
-# flutterdraganddrop
+# Flutter Drag and Drop
 
-A new Flutter project.
+Run on Chrome
+flutter run -d chrome --web-port=8082
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/17052727/125835828-b92c6396-a4b4-4b26-bc1d-7b17144eb54e.png)
