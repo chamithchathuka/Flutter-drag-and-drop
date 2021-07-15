@@ -1,6 +1,6 @@
 # Flutter Drag and Drop
 
-Run on Chrome
+## Run on Chrome
 flutter run -d chrome --web-port=8082
 
 ## Getting Started
